@@ -1,0 +1,19 @@
+# Uso de variaveis...
+MyName = "samuel M . de lima" 
+MyHeigh = 1.85
+MyAge = 20
+
+#exibição de conteúdo das variáves. . .
+print("Meu nome é", MyName)
+print("A minha altura é" , 1.85)
+print("Minha idade é", 20,)
+
+# Exibição do conteúdo das variáveis. . .
+print("Meu nome é",MyName)
+print("A minha altura é", MyHeigh, "metros.")
+print("Minha idade é", MyAge, "anos.")
+print(type(MyAge))
+
+# DEmostração de uso de variáveis. . .
+MyName = str(input())
+MyHeigh = float(input())
